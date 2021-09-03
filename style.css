@@ -11,7 +11,27 @@ body{
 	background: -webkit-linear-gradient(to right, #f5af19, #f12711);  /* Chrome 10-25, Safari 5.1-6 */
 	background: linear-gradient(to right, #f5af19, #f12711); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 	font-family: 'Roboto Slab', serif;
+	max-width: 100%;
+	height: auto;
+
+
 }
+
+//desktop
+
+@media screen and (min-width: 1300px) and (max-width: 1680px){
+	body{}
+
+}
+
+
+//movil
+
+@media screen and (min-width: 481px) and (max-width: 768px){
+	body{}	
+}
+
+
 article{
 	height:525px;
 	width:1165px;
