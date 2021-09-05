@@ -37,12 +37,12 @@ body{
 
 
 
-
 article{
-	height:525px;
-	width:1165px;
-	margin:40px 50px;
-	padding:25px;
+	height:5%;
+	width:91%;
+	margin-top: 5%;
+	margin-left:4%;
+	padding:2%;
 	background:hsl(0, 0%, 95%);
 
 }
@@ -51,16 +51,16 @@ article{
 ul{
 	flex: 1;
 	text-align: right;
-	margin-right: 15px;
-	padding: 10px;
+	margin-right: 1%;
+	padding: 1%;
 
 }
 
 ul li{
 	display: inline-block;
 	list-style: none;
-	margin: 10px;
-	padding:10px;
+	margin: 1%;
+	padding:1%;
 	color: #000;
 	background:#FDC830;
 
@@ -71,7 +71,7 @@ ul li{
 
 ul li a{
 	text-decoration: none;
-	margin-right:10px;
+	
 
 }
 
@@ -79,11 +79,11 @@ ul li a{
 
 
 img{
-	height: 80%;
-	width: auto;
+	
+	width:22%;
 	display: flex;
 	float: right;
-	margin-right: 30px;
+	margin-right: 3%;
 }
 
 
@@ -91,10 +91,10 @@ img{
 .titulo{
 	color:#000;
 	display: inline-block;
-	font-size: 30px;
+	font-size: 140%;
 	font-weight: bold;
 	background: #FDC830;
-	padding: 10px;
+	padding: 1%;
 	font-family: 'Roboto Slab', serif;
 
 }
@@ -103,24 +103,24 @@ img{
 .parrafo{
 	color:#000;
 	text-align: left;
-	padding: 30px;
+	padding:5%;
 	width:50%;
-	height:200px;
+	height:150%;
 	background: #F37335;
-	margin-top: 30px;
+	margin-top:2%;
 	font-family: 'Roboto Slab', serif;
 }
 
 
 i{
-	font-size:25px;
-	margin: 3px;
-	padding: 5px;
+	font-size:150%;
+	margin: 5%;
+	padding: 10%;
 }
 
 .btn{
 	background:#FDC830;
-	margin-top: 30px;
-	width:80px;
+	margin-top: 3%;
+	width:8%;
 
 }
