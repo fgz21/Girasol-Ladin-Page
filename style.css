@@ -80,8 +80,8 @@ ul li a{
 
 img{
 	
-	width:22%;
-	display: flex;
+	width:23%;
+	display: relative;
 	float: right;
 	margin-right: 3%;
 }
